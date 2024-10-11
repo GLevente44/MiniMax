@@ -25,7 +25,7 @@ namespace MiniMax
             foreach (int szam in lista)
             {
 
-                Console.Write(szam + ", ");
+                Console.Write(szam + ",");
 
             }
 
@@ -46,8 +46,8 @@ namespace MiniMax
                 }
             }
 
-            Console.WriteLine("A legkisebb elem: " + minszam);
-            Console.WriteLine("A legnagyobb elem: " + maxszam);
+            Console.WriteLine("A legkisebb szám: " + minszam);
+            Console.WriteLine("A legnagyobb szám: " + maxszam);
         }
     }
 }
