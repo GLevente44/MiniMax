@@ -1,0 +1,7 @@
+C:\Users\gecsel\Gitwork\MiniMax\bin\Debug\MiniMax.exe.config
+C:\Users\gecsel\Gitwork\MiniMax\bin\Debug\MiniMax.exe
+C:\Users\gecsel\Gitwork\MiniMax\bin\Debug\MiniMax.pdb
+C:\Users\gecsel\Gitwork\MiniMax\obj\Debug\MiniMax.csproj.AssemblyReference.cache
+C:\Users\gecsel\Gitwork\MiniMax\obj\Debug\MiniMax.csproj.CoreCompileInputs.cache
+C:\Users\gecsel\Gitwork\MiniMax\obj\Debug\MiniMax.exe
+C:\Users\gecsel\Gitwork\MiniMax\obj\Debug\MiniMax.pdb
